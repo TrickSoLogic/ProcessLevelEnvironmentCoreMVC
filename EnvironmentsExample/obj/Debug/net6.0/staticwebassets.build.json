@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "UmjD/EmFd8dWPL1AIhhaFI68WbZMLnhTJLuCrvmGTNQ=",
+  "Source": "ProcessLevelEnvironmentCoreMVC",
+  "BasePath": "_content/ProcessLevelEnvironmentCoreMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProcessLevelEnvironmentCoreMVC\\wwwroot",
+      "Source": "ProcessLevelEnvironmentCoreMVC",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\12. Environments\\04. Process Level Environment\\EnvironmentsExample\\wwwroot\\",
+      "BasePath": "_content/ProcessLevelEnvironmentCoreMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\12. Environments\\04. Process Level Environment\\EnvironmentsExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "ProcessLevelEnvironmentCoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\12. Environments\\04. Process Level Environment\\EnvironmentsExample\\wwwroot\\",
+      "BasePath": "_content/ProcessLevelEnvironmentCoreMVC",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

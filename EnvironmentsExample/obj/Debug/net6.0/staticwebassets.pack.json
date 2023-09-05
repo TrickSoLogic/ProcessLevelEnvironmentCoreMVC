@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\12. Environments\\04. Process Level Environment\\EnvironmentsExample\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProcessLevelEnvironmentCoreMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProcessLevelEnvironmentCoreMVC.props",
+      "PackagePath": "build\\ProcessLevelEnvironmentCoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProcessLevelEnvironmentCoreMVC.props",
+      "PackagePath": "buildMultiTargeting\\ProcessLevelEnvironmentCoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProcessLevelEnvironmentCoreMVC.props",
+      "PackagePath": "buildTransitive\\ProcessLevelEnvironmentCoreMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
